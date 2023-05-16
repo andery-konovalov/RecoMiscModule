@@ -3,8 +3,8 @@ from logging.config import dictConfig
 
 SERVER_LOGGER = "server_logger"
 CONSOLE_LOGGER = "console_logger"
-CHERRY_ACCESS_LOGGER = "CHERRY_ACCESS_LOGGER"
-CHERRY_ERROR_LOGGER = "CHERRY_ERROR_LOGGER"
+ACCESS_LOGGER = "access_logger"
+ERROR_LOGGER = "error_logger"
 
 
 def set_logging(error_file, access_file, server_log_file):
@@ -20,7 +20,7 @@ def set_logging(error_file, access_file, server_log_file):
                 "format": "'%(asctime)s - %(message)s"
             }},
         "handlers": {
-            "CHERRY_ERROR": {
+            "ERROR_HANDLER": {
                 "class": "logging.handlers.RotatingFileHandler",
                 "formatter": "default",
                 "level": logging.INFO,
@@ -28,7 +28,7 @@ def set_logging(error_file, access_file, server_log_file):
                 "maxBytes": file_rotation_max_bytes,
                 "backupCount": 100
             },
-            "CHERRY_ACCESS": {
+            "ACCESS_HANDLER": {
                 "class": "logging.handlers.RotatingFileHandler",
                 "formatter": "default",
                 "level": logging.INFO,
@@ -36,7 +36,7 @@ def set_logging(error_file, access_file, server_log_file):
                 "maxBytes": file_rotation_max_bytes,
                 "backupCount": 100
             },
-            "SERVER_INFO": {
+            "COMMON_HANDLER": {
                 "class": "logging.handlers.RotatingFileHandler",
                 "formatter": "for_file",
                 "level": logging.INFO,
@@ -44,7 +44,7 @@ def set_logging(error_file, access_file, server_log_file):
                 "maxBytes": file_rotation_max_bytes,
                 "backupCount": 100
             },
-            CONSOLE_LOGGER: {
+            "CONSOLE_HANDLER": {
                 "class": "logging.StreamHandler",
                 "formatter": "default",
                 "level": logging.INFO,
@@ -54,22 +54,22 @@ def set_logging(error_file, access_file, server_log_file):
         "loggers": {
             SERVER_LOGGER: {
                 "level": logging.INFO,
-                "handlers": ["SERVER_INFO"],
+                "handlers": ["COMMON_HANDLER"],
                 "propagate": False
             },
-            CHERRY_ACCESS_LOGGER: {
+            ACCESS_LOGGER: {
                 "level": logging.INFO,
-                "handlers": ["CHERRY_ACCESS"],
+                "handlers": ["ACCESS_HANDLER"],
                 "propagate": False
             },
-            CHERRY_ERROR_LOGGER: {
+            ERROR_LOGGER: {
                 "level": logging.INFO,
-                "handlers": ["CHERRY_ERROR"],
+                "handlers": ["ERROR_HANDLER"],
                 "propagate": False
             },
             CONSOLE_LOGGER: {
                 "level": logging.INFO,
-                "handlers": [CONSOLE_LOGGER],
+                "handlers": ["CONSOLE"],
                 "propagate": False}
         }
     })
