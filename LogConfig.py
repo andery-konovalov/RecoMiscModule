@@ -69,7 +69,7 @@ def set_logging(error_file, access_file, server_log_file):
             },
             CONSOLE_LOGGER: {
                 "level": logging.INFO,
-                "handlers": ["CONSOLE"],
+                "handlers": ["CONSOLE_HANDLER"],
                 "propagate": False}
         }
     })
