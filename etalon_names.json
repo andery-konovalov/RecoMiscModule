@@ -22,7 +22,11 @@
     "True Dark Chocolate ORIGINAL 47%": ["#93422D", "9100001457", 8],
     "True Dark Chocolate SPECIAL 56%": ["#AC100B", "9100001458", 9],
     "True Dark Chocolate WHOLE HAZELNUTS": ["#9D4629", "0505171252", 10],
-    "White BUBBLE Chocolate": ["#4EC1EB", "9100000732", 11]
+    "White BUBBLE Chocolate": ["#4EC1EB", "9100000732", 11],
+    "New White BUBBLE Chocolate": ["#4EC1EB", "9100000732", 12],
+    "New Milk BUBBLE chocolate": ["#8F0D11", "9100000734", 13],
+    "New Dark BUBBLE Chocolate": ["#A34A1A", "9100000735", 14],
+    "New Caramel BUBBLE Chocolate": ["#F8E1C1", "9100000733", 15]
   },
   "Lacmies": {
     "Lakmi cocoa wafers milk & choco filling": ["#6C3B8F", "9100000969", 0],

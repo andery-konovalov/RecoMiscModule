@@ -1,6 +1,5 @@
 import os
 import urllib.request
-from misc import LogConfig
 
 
 def download_data(urls_arr, destination_folder):
@@ -13,7 +12,6 @@ def download_data(urls_arr, destination_folder):
         try:
             __download_file(url, destination_folder)
         except:
-            LogConfig.LOGGER.error("Could not download file: {}".format(url))
             do_result = False
             break
     return do_result
