@@ -6,9 +6,9 @@
     "Baton Dark Chocolate": ["#D10122", "9100000303", 3],
     "Baton Milk Chocolate": ["#005BA3", "0500000172", 4],
     "Baton Milk Chocolate Mega x2": ["#005BA3", "9100002216", 5],
-    "Baton with coconut and almond": ["", "9100002670", 6],
-    "Baton Double peanuts": ["", "9100002693", 7],
-    "Baton with coconut and almond FP": ["", "9100002724", 8]
+    "Baton with coconut and almond": ["A4DAEB", "9100002670", 6],
+    "Baton Double peanuts": ["F67C1E", "9100002693", 7],
+    "Baton with coconut and almond FP": ["43C8E9", "9100002724", 8]
   },
   "Chocolates": {
     "Caramel BUBBLE Chocolate": ["#F8E1C1", "9100000733", 0],
@@ -49,8 +49,8 @@
     "Lacmi Whole Almonds Almond Filling & Caramel": ["#A61B5C", "9100000967", 17],
     "Lacmi Whole HazelNuts": ["#008935", "0505171352", 18],
     "Lacmi Whole Hazelnuts choco&caramel fillings": ["#267621", "9100000966", 19],
-    "Lacmi milk Strawberry cake flavoured": ["", "9100002671", 20],
-    "Lacmi Big Bite milk": ["", "9100002715", 21]
+    "Lacmi milk Strawberry cake flavoured": ["#D0150F", "9100002671", 20],
+    "Lacmi Big Bite milk": ["#35C3F6", "9100002715", 21]
   },
   "Wafers": {
     "Wafers Hazelnut": ["#9F0D13", "9100001509", 0],
