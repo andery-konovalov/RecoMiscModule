@@ -85,7 +85,10 @@
     "YG Banana Land": ["#a3b722", "9100002459", 9],
     "YG Duo Mix": ["#ecde8a", "9100001943", 10],
     "YG CupCakes": ["#ee37a1", "9100002461", 11],
-    "YG galaxy life": ["#421e7b", "9100002135", 12]
+    "YG galaxy life": ["#421e7b", "9100002135", 12],
+    "YG Carrots": ["#f39e66", "9100002846", 13],
+    "YG Pasta": ["#f7ea8e", "9100001944", 14],
+    "YG Smile Mix": ["#f7e776", "9100002847", 15]
   },
   "Roll": {
     "Roll Zolotoy klyuc": ["#f2d052", "9100000668", 0],
