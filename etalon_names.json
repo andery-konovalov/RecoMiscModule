@@ -6,9 +6,9 @@
     "Baton Dark Chocolate": ["#D10122", "9100000303", 3],
     "Baton Milk Chocolate": ["#005BA3", "0500000172", 4],
     "Baton Milk Chocolate Mega x2": ["#005BA3", "9100002216", 5],
-    "Baton with coconut and almond": ["A4DAEB", "9100002670", 6],
-    "Baton Double peanuts": ["F67C1E", "9100002693", 7],
-    "Baton with coconut and almond FP": ["43C8E9", "9100002724", 8]
+    "Baton with coconut and almond": ["#A4DAEB", "9100002670", 6],
+    "Baton Double peanuts": ["#F67C1E", "9100002693", 7],
+    "Baton with coconut and almond FP": ["#43C8E9", "9100002724", 8]
   },
   "Chocolates": {
     "Caramel BUBBLE Chocolate": ["#F8E1C1", "9100000733", 0],
@@ -51,7 +51,7 @@
     "Lacmi Whole Hazelnuts choco&caramel fillings": ["#267621", "9100000966", 19],
     "Lacmi milk Strawberry cake flavoured": ["#D0150F", "9100002671", 20],
     "Lacmi Big Bite milk": ["#35C3F6", "9100002715", 21],
-    "Lacmi Peanuts Peanut Filling & Caramel Little": ["#AC1742", "9100002715", 22]
+	"Lacmi Peanuts Peanut Filling & Caramel 100": ["#e94633", "9100002850", 22]
   },
   "Wafers": {
     "Wafers Hazelnut": ["#9F0D13", "9100001509", 0],
@@ -83,11 +83,11 @@
     "YG Twists": ["#43a748", "9100002279", 7],
     "YG Cherry": ["#be1d86", "9100002460", 8],
     "YG Banana Land": ["#a3b722", "9100002459", 9],
-    "YG Duo Mix": ["#ecde8a", "9100001943", 10],
+    "YG Duo Mix": ["#4a136b", "9100001943", 10],
     "YG CupCakes": ["#ee37a1", "9100002461", 11],
     "YG galaxy life": ["#421e7b", "9100002135", 12],
     "YG Carrots": ["#f39e66", "9100002846", 13],
-    "YG Pasta": ["#f7ea8e", "9100001944", 14],
+    "YG Pasta": ["#003777", "9100001944", 14],
     "YG Smile Mix": ["#f7e776", "9100002847", 15]
   },
   "Roll": {
@@ -135,7 +135,7 @@
     "K kofe butter and vanilla 185": ["#008293", "9100001578", 28],
     "K kofe baked milk 185": ["#930e05", "9100001577", 29],
     "K kofe baked milk 370": ["#6e090c", "9100001590", 30],
-    "Lovita soft cream cookies peanut": ["#dc6b01", "9100003040", 31]
+    "Lovita soft cream cookies peanut": ["#dc6b01", "9100003040",31]
   },
   "BOXED_CH": {
     "BOXED_CH Assortment classic": ["#450601", "9100000126", 0],
