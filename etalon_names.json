@@ -148,5 +148,11 @@
     "BOXED_CH Shooters whiskey": ["#846149", "9100001585", 7],
     "BOXED_CH Kiev vecherniy": ["#b5000d", "9100001228", 8],
     "BOXED_CH Strela podolskaya": ["#5a1b00", "1000030225", 9]
+  },
+  "Prices": {
+    "Price Roshen": ["", "", 0],
+    "Price": ["", "", 1],
   }
+  
+  
 }
