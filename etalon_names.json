@@ -70,7 +70,9 @@
     "Wafers Konafetto with milk filling": ["#0075ba", "9100001050", 13],
     "Wafers Konafetto with vanilla filling": ["#faca00", "9100001169", 14],
     "Wafers Konafetto with coconut filling": ["#62afe3", "9100001170", 15],
-    "Wafers Coconut and almonds": ["#0c6db5", "9100002856", 16]
+    "Wafers Coconut and almonds": ["#0c6db5", "9100002856", 16],
+	"Wafers sandwich EXTRA CRUNCH STAWBERRY": ["#F3D1DF", "9100003256", 17],
+	"Wafers sandwich EXTRA CRUNCH LEMON": ["#D2D363", "9100003173", 18]
   },
   "YG": {
     "YG fizzy worms": ["#A9D117", "9100002132", 0],
