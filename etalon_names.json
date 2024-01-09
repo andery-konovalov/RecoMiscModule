@@ -51,7 +51,7 @@
     "Lacmi Whole Hazelnuts choco&caramel fillings": ["#267621", "9100000966", 19],
     "Lacmi milk Strawberry cake flavoured": ["#D0150F", "9100002671", 20],
     "Lacmi Big Bite milk": ["#35C3F6", "9100002715", 21],
-	"Lacmi Peanuts Peanut Filling & Caramel 100": ["#e94633", "9100002850", 22]
+    "Lacmi Peanuts Peanut Filling & Caramel 100": ["#e94633", "9100002850", 22]
   },
   "Wafers": {
     "Wafers Hazelnut": ["#9F0D13", "9100001509", 0],
@@ -71,8 +71,8 @@
     "Wafers Konafetto with vanilla filling": ["#faca00", "9100001169", 14],
     "Wafers Konafetto with coconut filling": ["#62afe3", "9100001170", 15],
     "Wafers Coconut and almonds": ["#0c6db5", "9100002856", 16],
-	"Wafers sandwich EXTRA CRUNCH STAWBERRY": ["#F3D1DF", "9100003256", 17],
-	"Wafers sandwich EXTRA CRUNCH LEMON": ["#D2D363", "9100003173", 18]
+    "Wafers sandwich EXTRA CRUNCH STAWBERRY": ["#F3D1DF", "9100003256", 17],
+    "Wafers sandwich EXTRA CRUNCH LEMON": ["#D2D363", "9100003173", 18]
   },
   "YG": {
     "YG fizzy worms": ["#A9D117", "9100002132", 0],
@@ -137,7 +137,7 @@
     "K kofe butter and vanilla 185": ["#008293", "9100001578", 28],
     "K kofe baked milk 185": ["#930e05", "9100001577", 29],
     "K kofe baked milk 370": ["#6e090c", "9100001590", 30],
-    "Lovita soft cream cookies peanut": ["#dc6b01", "9100003040",31]
+    "Lovita soft cream cookies peanut": ["#dc6b01", "9100003040", 31]
   },
   "BOXED_CH": {
     "BOXED_CH Assortment classic": ["#450601", "9100000126", 0],
@@ -154,7 +154,5 @@
   "Prices": {
     "Price Roshen": ["", "", 0],
     "Price": ["", "", 1],
-  }
-  
-  
+  } 
 }
