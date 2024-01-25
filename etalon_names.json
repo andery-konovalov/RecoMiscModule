@@ -153,6 +153,7 @@
   },
   "Prices": {
     "Price Roshen": ["", "", 0],
-    "Price": ["", "", 1]
+    "Price": ["", "", 1],
+    "price-tag": ["", "", 2]
   } 
 }
