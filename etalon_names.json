@@ -26,7 +26,11 @@
     "New White BUBBLE Chocolate": ["#4EC1EB", "9100000732", 12],
     "New Milk BUBBLE chocolate": ["#8F0D11", "9100000734", 13],
     "New Dark BUBBLE Chocolate": ["#A34A1A", "9100000735", 14],
-    "New Caramel BUBBLE Chocolate": ["#F8E1C1", "9100000733", 15]
+    "New Caramel BUBBLE Chocolate": ["#F8E1C1", "9100000733", 15],
+    "Nut milk chocolate almonds": ["#fecc5d", "9100003416", 16],
+    "Nut milk chocolate hazelnuts": ["#99c564", "9100003415", 17],
+    "Nut dark chocolate almonds": ["#c349b2", "9100003418", 18],
+    "Nut dark chocolate hazelnuts": ["#fa6d64", "9100003417", 19]
   },
   "Lacmies": {
     "Lakmi cocoa wafers milk & choco filling": ["#6C3B8F", "9100000969", 0],
