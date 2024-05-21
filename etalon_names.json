@@ -94,7 +94,9 @@
     "YG galaxy life": ["#421e7b", "9100002135", 12],
     "YG Carrots": ["#f39e66", "9100002846", 13],
     "YG Pasta": ["#003777", "9100001944", 14],
-    "YG Smile Mix": ["#f7e776", "9100002847", 15]
+    "YG Smile Mix": ["#f7e776", "9100002847", 15],
+    "YG Cheesecakes": ["#0f8ecf", "9100003453 ", 16],
+    "YG YG Watermelon": ["#618c1e", "9100003456", 17]
   },
   "Roll": {
     "Roll Zolotoy klyuc": ["#f2d052", "9100000668", 0],
